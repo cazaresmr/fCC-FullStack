@@ -1,7 +1,13 @@
     body {
       line-height: 2rem;
+      background-color: #ccc;
+      color: #333;
+
     }
 
+    h1, h2 {
+      margin-top: 1rem;
+    }
     li {
       list-style-type: none;
     }
